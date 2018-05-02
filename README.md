@@ -1,6 +1,10 @@
 # UI-pattern-sites
 A collection of UI pattern sites. Most of them are collected on this Enboard: [Web Design Resources](https://enboard.co/web-design-resources/)
 
+## Similar Collections
+- https://adele.uxpin.com
+- https://designsystemsrepo.com
+
 ## Case Studies
 - [Case Study Club](http://casestudy.club/)
 
