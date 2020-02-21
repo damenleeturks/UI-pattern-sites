@@ -2,6 +2,7 @@
 A collection of UI pattern sites. Most of them are collected on this Enboard: [Web Design Resources](https://enboard.co/web-design-resources/)
 
 ## Similar Collections
+- https://voiceandtoneguides.webflow.io/
 - https://adele.uxpin.com
 - https://designsystemsrepo.com
 
@@ -32,7 +33,6 @@ A collection of UI pattern sites. Most of them are collected on this Enboard: [W
 ## Email Design
 - [Mailchimp Email Inspiration](http://inspiration.mailchimp.com/#all)
 - [Really Good Emails](http://reallygoodemails.com)
-
 
 ## Mockups
 - [Screenkit](http://www.screenkit.co/)
