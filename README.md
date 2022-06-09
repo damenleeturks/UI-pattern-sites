@@ -5,6 +5,8 @@ A collection of UI pattern sites. Most of them are collected on this Enboard: [W
 - https://voiceandtoneguides.webflow.io/
 - https://adele.uxpin.com
 - https://designsystemsrepo.com
+- https://storybook.js.org/showcase
+- https://component.gallery/components/card/
 
 ## Case Studies
 - [Case Study Club](http://casestudy.club/)
