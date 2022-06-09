@@ -11,33 +11,38 @@ A collection of UI pattern sites. Most of them are collected on this Enboard: [W
 ## Case Studies
 - [Case Study Club](http://casestudy.club/)
 
-## Patterns
+## Patterns and Resources
 - [Ask DN: Facebook Ads Directory](https://www.designernews.co/stories/46062-ask-dn-facebook-ads-directory)
-- [Capptivate](http://capptivate.co)
-- [Inspired UI](http://inspired-ui.com)
 - [iOSpirations](http://www.iospirations.com/)
-- [Konigi: Interface](http://konigi.com/interface/)
+- [Konigi: User Interface Guidelines](https://konigi.com/design/user-interface-guidelines/)
+- [Konigi: User Interface Style Guides](https://konigi.com/design/user-interface-style-guides/)
 - [LittleBigDetails](http://littlebigdetails.com)
 - [Lovely UI](http://www.lovelyui.com)
-- [Meer.li](http://iphone.meer.li)
-- [Mobile Patterns](http://www.mobile-patterns.com)
-- [Patternry](http://patternry.com/patterns/)
-- [PatternTap](http://zurb.com/patterntap)
-- [pttrns](http://pttrns.com/)
+- [Mobile Patterns](https://www.simform.com/mobile-patterns/)
 - [Tab Patterns](http://tabpatterns.com)
-- [Tumblr: UI Animations](http://ui-animations.tumblr.com)
-- [UI Haus](http://beta.uihaus.com)
-- [UI Oh My](http://uiohmy.com)
 - [UI Patterns](http://ui-patterns.com)
 - [UserOnboard](http://www.useronboard.com)
 - [UX Archive](http://www.uxarchive.com)
+- [Design Pattern Library, by Sari Laakso](https://www.cs.helsinki.fi/u/salaakso/patterns/) (from 2003)
+- [Welie Interaction Design Pattern Library](http://www.welie.com/patterns/) (last updated 2008)
+- [Smiley Cat's Elements of Design](https://www.smileycat.com/category/elements-of-design/)
+- *[pttrns](http://pttrns.com/) (now behind a paywall)
+- ~[Capptivate](http://capptivate.co)~ (archive available on [Github](https://github.com/capptivateco/capptivate))
+- ~[Inspired UI](http://inspired-ui.com)~
+- ~[Konigi: Interface](http://konigi.com/interface/)~
+- ~[Meer.li](http://iphone.meer.li)~
+- ~[Patternry](http://patternry.com/patterns/)~
+- ~[PatternTap](http://zurb.com/patterntap)~
+- ~[Tumblr: UI Animations](http://ui-animations.tumblr.com)~ (changed focus)
+- ~[UI Haus](http://beta.uihaus.com)~
+- ~[UI Oh My](http://uiohmy.com)~
 
 ## Email Design
-- [Mailchimp Email Inspiration](http://inspiration.mailchimp.com/#all)
 - [Really Good Emails](http://reallygoodemails.com)
+- ~[Mailchimp Email Inspiration](http://inspiration.mailchimp.com/#all)~ (changed focus)
 
 ## Mockups
-- [Screenkit](http://www.screenkit.co/)
-- [UI Cloud](http://ui-cloud.com/)
-- [UI Parade](http://www.uiparade.com/)
-- [UI The Ultralinx](http://ui.theultralinx.com)
+- ~[Screenkit](http://www.screenkit.co/)~
+- ~[UI Cloud](http://ui-cloud.com/)~
+- ~[UI Parade](http://www.uiparade.com/)~ (Closed)
+- ~[UI The Ultralinx](http://ui.theultralinx.com)~
