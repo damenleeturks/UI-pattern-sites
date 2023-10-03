@@ -2,6 +2,7 @@
 A collection of UI pattern sites. Most of them are collected on this Enboard: [Web Design Resources](https://enboard.co/web-design-resources/)
 
 ## Similar Collections
+- https://github.com/alexpate/awesome-design-systems
 - https://voiceandtoneguides.webflow.io/
 - https://adele.uxpin.com
 - https://designsystemsrepo.com
